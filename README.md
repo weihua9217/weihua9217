@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Matthew</h1>
-<h3 align="left">Currently, I am a master student @ NCCUCS</h3>
+<h2 align="left">Hello, I'm Matthew Lee</h1>
 
 - 🌱 I’m currently learning **Computer Vision, Image Processing**
 
