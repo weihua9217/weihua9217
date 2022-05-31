@@ -1,6 +1,6 @@
 <h2 align="left">Hello, I'm Matthew Lee</h1>
 
-- 🔭 I’m currently working on **NCCUCS**
+- 🔭 I’m currently working  **NCCUCS**
 
 - 🌱 I’m currently learning **Computer Vision, Image Processing**
 
